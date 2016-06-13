@@ -1,3 +1,23 @@
+### v1.13.1 -> v1.13.2
+
+#### Fixes
+
+ - [`bd827ce`](https://github.com/deis/deis/commit/bd827cea49e5ad61b127b0ca824ee81319b6f73e) Makefile: remove old "go vet" install command
+
+#### Documentation
+
+ - [`62f1696`](https://github.com/deis/deis/commit/62f169691c3b1f6fe7591d88162f63255f866b03) upgrading: clarify AWS-specific instructions
+
+#### Maintenance
+
+ - [`b795d8d`](https://github.com/deis/deis/commit/b795d8d52975e07164a0628dce14f180888d946c) planning: update for june/july community meetings
+ - [`6ca0414`](https://github.com/deis/deis/commit/6ca04149b068a166170031991b491b0bcb845b44) buildpacks: update heroku-buildpack-scala to v70
+ - [`1d89269`](https://github.com/deis/deis/commit/1d892694cbf3a3f176dc90ad66f4d3efa76abcdc) buildpacks: update heroku-buildpack-php to v105
+ - [`750e5e9`](https://github.com/deis/deis/commit/750e5e9e0f9e810ed5ecc2f1f08ba9473cafa7d5) buildpacks: update heroku-buildpack-go to v41
+ - [`c89e903`](https://github.com/deis/deis/commit/c89e903d28674922d926dea52cef8031d508b6d3) (all): bump CoreOS to 1010.5.0
+ - [`885d7ef`](https://github.com/deis/deis/commit/885d7ef297eeffc4343b887120d1bca0a0a04568) buildpacks: update heroku-buildpack-python to v80
+ - [`955dcea`](https://github.com/deis/deis/commit/955dcea900d6822590c8bb01bb30d9fbf9190ac6) planning: updates for May planning
+
 ### v1.13.0 -> v1.13.1
 
 #### Fixes
